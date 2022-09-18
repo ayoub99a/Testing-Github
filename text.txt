@@ -1,1 +1,1 @@
-Hello World, This solution by html,css 
+Hello World, this is Pure HTML, CSS, JS Project 
